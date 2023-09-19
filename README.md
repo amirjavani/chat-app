@@ -16,11 +16,11 @@ chat appliation with flutter und redis
 ## images
 
  <img src="https://github.com/amirjavani/chat-app/assets/87892692/57da9e97-3943-4c4e-9e8f-fd67fa825268" width="300">       <img src="https://github.com/amirjavani/chat-app/assets/87892692/421c997a-a44d-4f17-a363-770859f31020" width="300">
+ 
+ <img src="https://github.com/amirjavani/chat-app/assets/87892692/9c8b64e2-a84c-4139-a637-1acc59e9455d" width="300">       <img src="https://github.com/amirjavani/chat-app/assets/87892692/32939690-c77f-416a-ac00-c77c3a97d3c2" width="300">
+ 
+ <img src="https://github.com/amirjavani/chat-app/assets/87892692/29b58f52-ba6f-42e6-ad42-44e162a5af44" width="300">       <img src="https://github.com/amirjavani/chat-app/assets/87892692/74f9ff4e-5e14-49c6-b8da-12728c05481d" width="300">
 
-![Screenshot_1681495245](https://github.com/amirjavani/chat-app/assets/87892692/9c8b64e2-a84c-4139-a637-1acc59e9455d)
-![Screenshot_1681495252](https://github.com/amirjavani/chat-app/assets/87892692/32939690-c77f-416a-ac00-c77c3a97d3c2)
-![Screenshot_1681495273](https://github.com/amirjavani/chat-app/assets/87892692/29b58f52-ba6f-42e6-ad42-44e162a5af44)
-![Screenshot_1681495345](https://github.com/amirjavani/chat-app/assets/87892692/74f9ff4e-5e14-49c6-b8da-12728c05481d)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
